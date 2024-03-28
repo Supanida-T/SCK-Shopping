@@ -11,3 +11,5 @@
 | วันศุกร์ที่ 5 เมษายน 2567 | - | - | - |
 |
 
+# Source
+Miro board: http://tiny.cc/SCKshoppingRobot
